@@ -1,0 +1,21 @@
+name: Comprobar conexión
+
+on:
+  workflow_dispatch:
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    env:
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      IG_API_VERSION: ${{ vars.IG_API_VERSION }}
+      MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Comprobar token, cuenta y archivos
+        working-directory: scripts
+        run: python comprobar.py
