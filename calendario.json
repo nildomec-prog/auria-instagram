@@ -3,7 +3,7 @@
   "publicaciones": [
     {
       "id": "C1",
-      "fecha": "2026-10-05",
+      "fecha": "2026-09-29",
       "hora": "13:30",
       "tipo": "CARRUSEL",
       "descripcion": "Carrusel: meses de caja",
@@ -22,7 +22,7 @@
     },
     {
       "id": "A1",
-      "fecha": "2026-10-07",
+      "fecha": "2026-10-01",
       "hora": "13:30",
       "tipo": "REEL",
       "descripcion": "Reel animado: ¿llegas a Navidad?",
@@ -35,7 +35,7 @@
     },
     {
       "id": "C2",
-      "fecha": "2026-10-09",
+      "fecha": "2026-10-02",
       "hora": "13:30",
       "tipo": "IMAGEN",
       "descripcion": "Post: el caso del 82 %",
@@ -47,7 +47,7 @@
     },
     {
       "id": "C3",
-      "fecha": "2026-10-13",
+      "fecha": "2026-10-05",
       "hora": "13:30",
       "tipo": "CARRUSEL",
       "descripcion": "Carrusel: vendes más y ganas menos",
@@ -66,7 +66,7 @@
     },
     {
       "id": "A2",
-      "fecha": "2026-10-14",
+      "fecha": "2026-10-07",
       "hora": "13:30",
       "tipo": "REEL",
       "descripcion": "Reel animado: tu empresa, con nota",
@@ -79,7 +79,7 @@
     },
     {
       "id": "C4",
-      "fecha": "2026-10-16",
+      "fecha": "2026-10-09",
       "hora": "13:30",
       "tipo": "CARRUSEL",
       "descripcion": "Carrusel: para despachos",
@@ -98,7 +98,7 @@
     },
     {
       "id": "C5",
-      "fecha": "2026-10-19",
+      "fecha": "2026-10-13",
       "hora": "13:30",
       "tipo": "CARRUSEL",
       "descripcion": "Carrusel: días de cobro",
@@ -117,7 +117,7 @@
     },
     {
       "id": "V2",
-      "fecha": "2026-10-21",
+      "fecha": "2026-10-14",
       "hora": "13:30",
       "tipo": "REEL",
       "descripcion": "Reel animado: el 82 %",
@@ -130,7 +130,7 @@
     },
     {
       "id": "C6",
-      "fecha": "2026-10-23",
+      "fecha": "2026-10-16",
       "hora": "13:30",
       "tipo": "CARRUSEL",
       "descripcion": "Carrusel: así prioriza AURIA",
@@ -148,7 +148,7 @@
     },
     {
       "id": "C7",
-      "fecha": "2026-10-26",
+      "fecha": "2026-10-19",
       "hora": "13:30",
       "tipo": "CARRUSEL",
       "descripcion": "Carrusel: punto de equilibrio",
@@ -167,7 +167,7 @@
     },
     {
       "id": "A3",
-      "fecha": "2026-10-28",
+      "fecha": "2026-10-21",
       "hora": "13:30",
       "tipo": "REEL",
       "descripcion": "Reel animado: punto de equilibrio",
@@ -180,7 +180,7 @@
     },
     {
       "id": "C8",
-      "fecha": "2026-10-30",
+      "fecha": "2026-10-23",
       "hora": "13:30",
       "tipo": "CARRUSEL",
       "descripcion": "Carrusel: autodiagnóstico en 12 preguntas",
