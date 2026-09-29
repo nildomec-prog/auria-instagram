@@ -1,0 +1,19 @@
+{
+  "reglas": [
+    {
+      "clave": "DESPACHO",
+      "patron": "\\bdespacho\\b",
+      "texto": "¡Hola! Te cuento cómo lo plantearía un despacho: licencia para tus clientes y tú facturas la asesoría. ¿Cuántos clientes pyme llevas ahora mismo?"
+    },
+    {
+      "clave": "DEMO",
+      "patron": "\\bdemo\\b",
+      "texto": "¡Hola! Te la enseño con datos de una empresa demo, 20 minutos. Si te encaja, la siguiente la hacemos con tu Excel o tu Odoo. ¿Qué día te va mejor esta semana?"
+    },
+    {
+      "clave": "12",
+      "patron": "(^|[^0-9])12([^0-9]|$)",
+      "texto": "¡Aquí tienes la guía! auria-solutions.com/guia. Si el email no llega, mira en Promociones. Una pregunta: ¿qué porcentaje de tu facturación se llevan tus 3 mayores clientes?"
+    }
+  ]
+}

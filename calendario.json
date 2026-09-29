@@ -1,0 +1,200 @@
+{
+  "zona_horaria": "Europe/Madrid",
+  "publicaciones": [
+    {
+      "id": "C1",
+      "fecha": "2026-10-05",
+      "hora": "13:30",
+      "tipo": "CARRUSEL",
+      "descripcion": "Carrusel: meses de caja",
+      "archivos": [
+        "media/C1/C1-01.jpg",
+        "media/C1/C1-02.jpg",
+        "media/C1/C1-03.jpg",
+        "media/C1/C1-04.jpg",
+        "media/C1/C1-05.jpg",
+        "media/C1/C1-06.jpg",
+        "media/C1/C1-07.jpg",
+        "media/C1/C1-08.jpg"
+      ],
+      "texto": "Pregunta rápida: si mañana dejas de cobrar, ¿cuántos meses aguanta tu empresa pagando nóminas, alquiler y proveedores? Si la respuesta no te sale en 10 segundos, no eres el único. Es el primero de los 12 números de la guía gratuita, con fórmula, ejemplo y semáforo. Comenta 12 y te la envío por DM.\n\n#pymes #tesorería #finanzasempresariales #controlling",
+      "estado": "pendiente"
+    },
+    {
+      "id": "A1",
+      "fecha": "2026-10-07",
+      "hora": "13:30",
+      "tipo": "REEL",
+      "descripcion": "Reel animado: ¿llegas a Navidad?",
+      "archivos": [
+        "media/reels/A1_Navidad.mp4"
+      ],
+      "texto": "Si mañana dejaras de cobrar, ¿llegarías a Navidad? Casi nadie sabe cuántos meses aguanta su empresa sin cobrar, y es el primer número que conviene tener delante antes del cierre de año. Comenta 12 y te envío la guía gratuita con los 12 números que deciden el futuro de tu pyme.\n\n#pymes #tesorería #finanzasempresariales #controlling",
+      "estado": "pendiente",
+      "portada_ms": 4500
+    },
+    {
+      "id": "C2",
+      "fecha": "2026-10-09",
+      "hora": "13:30",
+      "tipo": "IMAGEN",
+      "descripcion": "Post: el caso del 82 %",
+      "archivos": [
+        "media/C2/C2.jpg"
+      ],
+      "texto": "Es uno de los casos reales (anonimizado) de la guía: 4 clientes sumaban el 82 % de la facturación y nadie lo tenía medido. Si uno se va o empieza a pagar tarde, el golpe no lo absorbe nadie. La concentración de clientes no sale en el balance: hay que calcularla. Regla orientativa: cuando un solo cliente supera el 20 % de tus ventas, ya es un riesgo que gestionar. Comenta 12 y te envío la guía con los 12 números.\n\n#pymes #riesgoempresarial #finanzasempresariales #gestiónfinanciera",
+      "estado": "pendiente"
+    },
+    {
+      "id": "C3",
+      "fecha": "2026-10-13",
+      "hora": "13:30",
+      "tipo": "CARRUSEL",
+      "descripcion": "Carrusel: vendes más y ganas menos",
+      "archivos": [
+        "media/C3/C3-01.jpg",
+        "media/C3/C3-02.jpg",
+        "media/C3/C3-03.jpg",
+        "media/C3/C3-04.jpg",
+        "media/C3/C3-05.jpg",
+        "media/C3/C3-06.jpg",
+        "media/C3/C3-07.jpg",
+        "media/C3/C3-08.jpg"
+      ],
+      "texto": "Facturar más no siempre significa ganar más. Si tus ventas crecen pero la caja no lo nota, empieza por el margen bruto. En el carrusel tienes la fórmula, un ejemplo con números y las causas más habituales cuando se escapa. Guárdalo para el cierre de octubre y comenta 12 si quieres la guía completa.\n\n#pymes #rentabilidad #controlling #finanzasempresariales #gestiónfinanciera",
+      "estado": "pendiente"
+    },
+    {
+      "id": "A2",
+      "fecha": "2026-10-14",
+      "hora": "13:30",
+      "tipo": "REEL",
+      "descripcion": "Reel animado: tu empresa, con nota",
+      "archivos": [
+        "media/reels/A2_TuNota.mp4"
+      ],
+      "texto": "¿Qué le urge de verdad a tu empresa? AURIA revisa tu contabilidad con 220 comprobaciones en 12 dimensiones, te da una nota de 0 a 100 y te dice qué va primero: lo que hay que resolver ya, lo que hay que planificar y lo que solo hay que vigilar. Escribe DEMO por DM y te lo enseño en 20 minutos.\n\n#pymes #controlling #odoo #finanzasempresariales",
+      "estado": "pendiente",
+      "portada_ms": 4800
+    },
+    {
+      "id": "C4",
+      "fecha": "2026-10-16",
+      "hora": "13:30",
+      "tipo": "CARRUSEL",
+      "descripcion": "Carrusel: para despachos",
+      "archivos": [
+        "media/C4/C4-01.jpg",
+        "media/C4/C4-02.jpg",
+        "media/C4/C4-03.jpg",
+        "media/C4/C4-04.jpg",
+        "media/C4/C4-05.jpg",
+        "media/C4/C4-06.jpg",
+        "media/C4/C4-07.jpg",
+        "media/C4/C4-08.jpg"
+      ],
+      "texto": "Los despachos tienen algo que cualquier consultor financiero querría: los datos contables de decenas de pymes, al día. AURIA convierte esos datos en un diagnóstico mensual por cliente, y tú lo conviertes en una asesoría que se factura aparte. Busco despachos que quieran probarlo con 2 o 3 clientes reales. Escríbeme DESPACHO por DM.\n\n#gestorías #asesoríaempresarial #despachosprofesionales #pymes",
+      "estado": "pendiente"
+    },
+    {
+      "id": "C5",
+      "fecha": "2026-10-19",
+      "hora": "13:30",
+      "tipo": "CARRUSEL",
+      "descripcion": "Carrusel: días de cobro",
+      "archivos": [
+        "media/C5/C5-01.jpg",
+        "media/C5/C5-02.jpg",
+        "media/C5/C5-03.jpg",
+        "media/C5/C5-04.jpg",
+        "media/C5/C5-05.jpg",
+        "media/C5/C5-06.jpg",
+        "media/C5/C5-07.jpg",
+        "media/C5/C5-08.jpg"
+      ],
+      "texto": "Vender está muy bien; cobrar, mejor. El periodo medio de cobro te dice cuántos días tarda en entrar el dinero que ya has ganado, y cada día de más sale de tu caja. En el carrusel: fórmula, ejemplo y cuánto dinero inmovilizan 10 días de retraso. Comenta 12 para recibir la guía.\n\n#pymes #tesorería #cobros #finanzasempresariales",
+      "estado": "pendiente"
+    },
+    {
+      "id": "V2",
+      "fecha": "2026-10-21",
+      "hora": "13:30",
+      "tipo": "REEL",
+      "descripcion": "Reel animado: el 82 %",
+      "archivos": [
+        "media/reels/V2_El82.mp4"
+      ],
+      "texto": "El 82 % de la facturación de una empresa dependía de 4 clientes, y nadie lo tenía medido. Es uno de los casos reales (anonimizado) de la guía. La concentración de clientes no sale en el balance: hay que calcularla. Comenta 12 y te envío la guía con los 12 números.\n\n#pymes #riesgoempresarial #finanzasempresariales #gestiónfinanciera",
+      "estado": "pendiente",
+      "portada_ms": 3800
+    },
+    {
+      "id": "C6",
+      "fecha": "2026-10-23",
+      "hora": "13:30",
+      "tipo": "CARRUSEL",
+      "descripcion": "Carrusel: así prioriza AURIA",
+      "archivos": [
+        "media/C6/C6-01.jpg",
+        "media/C6/C6-02.jpg",
+        "media/C6/C6-03.jpg",
+        "media/C6/C6-04.jpg",
+        "media/C6/C6-05.jpg",
+        "media/C6/C6-06.jpg",
+        "media/C6/C6-07.jpg"
+      ],
+      "texto": "Un informe con 40 indicadores no ayuda a decidir; un diagnóstico que te dice qué va primero, sí. AURIA puntúa cada hallazgo, lo coloca en uno de cuatro cuadrantes y te da el plan de acción, con tus datos de Odoo o de un Excel. Escribe DEMO por DM y te lo enseño en 20 minutos.\n\n#pymes #controlling #odoo #finanzasempresariales",
+      "estado": "pendiente"
+    },
+    {
+      "id": "C7",
+      "fecha": "2026-10-26",
+      "hora": "13:30",
+      "tipo": "CARRUSEL",
+      "descripcion": "Carrusel: punto de equilibrio",
+      "archivos": [
+        "media/C7/C7-01.jpg",
+        "media/C7/C7-02.jpg",
+        "media/C7/C7-03.jpg",
+        "media/C7/C7-04.jpg",
+        "media/C7/C7-05.jpg",
+        "media/C7/C7-06.jpg",
+        "media/C7/C7-07.jpg",
+        "media/C7/C7-08.jpg"
+      ],
+      "texto": "Antes de hacer el presupuesto de 2027 conviene tener delante un número: cuánto necesitas vender cada mes para no perder dinero. En el carrusel tienes la fórmula, un ejemplo y qué pasa con ese número cada vez que sumas un coste fijo. Guárdalo y comenta 12 si quieres la guía completa.\n\n#pymes #presupuesto #finanzasempresariales #controlling #gestiónfinanciera",
+      "estado": "pendiente"
+    },
+    {
+      "id": "A3",
+      "fecha": "2026-10-28",
+      "hora": "13:30",
+      "tipo": "REEL",
+      "descripcion": "Reel animado: punto de equilibrio",
+      "archivos": [
+        "media/reels/A3_Equilibrio.mp4"
+      ],
+      "texto": "Antes de cerrar el presupuesto de 2027, un número: cuánto tienes que vender cada mes para no perder dinero. Con 50.000 € de costes fijos y un 40 % de margen de contribución, son 125.000 € al mes. Comenta 12 y te envío la guía con la fórmula y el ejemplo completo.\n\n#pymes #presupuesto #finanzasempresariales #controlling",
+      "estado": "pendiente",
+      "portada_ms": 6500
+    },
+    {
+      "id": "C8",
+      "fecha": "2026-10-30",
+      "hora": "13:30",
+      "tipo": "CARRUSEL",
+      "descripcion": "Carrusel: autodiagnóstico en 12 preguntas",
+      "archivos": [
+        "media/C8/C8-01.jpg",
+        "media/C8/C8-02.jpg",
+        "media/C8/C8-03.jpg",
+        "media/C8/C8-04.jpg",
+        "media/C8/C8-05.jpg",
+        "media/C8/C8-06.jpg",
+        "media/C8/C8-07.jpg"
+      ],
+      "texto": "Doce preguntas que un gerente debería poder responder sin abrir el Excel. Cuenta cuántas te salen de memoria: es tu punto de partida para el presupuesto de 2027. Si quieres la fórmula y el semáforo de cada una, comenta 12 y te envío la guía.\n\n#pymes #autodiagnóstico #finanzasempresariales #controlling #empresafamiliar",
+      "estado": "pendiente"
+    }
+  ]
+}
