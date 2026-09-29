@@ -1,0 +1,59 @@
+name: Publicar en Instagram
+
+on:
+  schedule:
+    - cron: "*/15 5-21 * * *"
+  workflow_dispatch:
+    inputs:
+      modo_prueba:
+        description: "Solo simular: no publica ni envía mensajes"
+        type: boolean
+        default: true
+      forzar_id:
+        description: "Publicar ya este id del calendario (p. ej. C1). Vacío = lo que toque por fecha"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      IG_USER_ID: ${{ vars.IG_USER_ID }}
+      IG_API_VERSION: ${{ vars.IG_API_VERSION }}
+      MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
+      RESPUESTAS_ACTIVAS: ${{ vars.RESPUESTAS_ACTIVAS }}
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.modo_prueba && 'true' || 'false' }}
+      FORCE_ID: ${{ inputs.forzar_id }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Publicar lo que toque
+        working-directory: scripts
+        run: python publicar.py
+      - name: Responder comentarios con palabra clave
+        if: always()
+        working-directory: scripts
+        run: python responder_comentarios.py
+      - name: Guardar estado
+        if: always()
+        run: |
+          if [ -n "$(git status --porcelain calendario.json respuestas.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add calendario.json respuestas.json
+            git commit -m "Estado de Instagram actualizado"
+            git pull --rebase
+            git push
+          fi
